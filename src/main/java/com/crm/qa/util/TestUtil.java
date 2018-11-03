@@ -19,7 +19,7 @@ public class TestUtil extends TestBase{
 	
 	static Workbook book;
 	static Sheet sheet;
-	public String pathName = "C:\\Users\\zesh_\\Documents\\Selenium\\CRM\\src\\main\\java\\com\\crm\\qa\\data\\practicaSeleniumData.xlsx";
+	public String pathName = "C:\\Users\\zesh_\\git\\CRM\\src\\main\\java\\com\\crm\\qa\\data\\practicaSeleniumData.xlsx";
 	
 	public void switchToFrame(String name) {
 		driver.switchTo().frame(name);
