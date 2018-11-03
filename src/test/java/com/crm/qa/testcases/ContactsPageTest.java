@@ -17,7 +17,7 @@ public class ContactsPageTest extends TestBase{
 	LoginPage loginPage;
 	HomePage homePage;
 	ContactsPage contactsPage;
-//	String dataPath = " C:\\Users\\zesh_\\Documents\\Selenium\\CRM\\src\\main\\java\\com\\crm\\qa\\data\\practicaSeleniumData.xlsx";
+//	String dataPath = " C:\\Users\\git\\Selenium\\CRM\\src\\main\\java\\com\\crm\\qa\\data\\practicaSeleniumData.xlsx";
 	
 	public ContactsPageTest() {
 		super();
