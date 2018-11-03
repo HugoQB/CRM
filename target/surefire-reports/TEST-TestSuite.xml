@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="9" failures="0" name="TestSuite" time="22.817" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="FreeCRMTest.job"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\zesh_\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="5755a5150109c732"/>
+    <property name="POM_ARTIFACTID" value="CRM"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\JAVAnew\lib\resources.jar;C:\Program Files (x86)\Java\JAVAnew\lib\rt.jar;C:\Program Files (x86)\Java\JAVAnew\lib\sunrsasign.jar;C:\Program Files (x86)\Java\JAVAnew\lib\jsse.jar;C:\Program Files (x86)\Java\JAVAnew\lib\jce.jar;C:\Program Files (x86)\Java\JAVAnew\lib\charsets.jar;C:\Program Files (x86)\Java\JAVAnew\lib\jfr.jar;C:\Program Files (x86)\Java\JAVAnew\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="user.country.format" value="MX"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="FreeCRMTest"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\zesh_\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="user.name" value="HQ8"/>
+    <property name="user.language.format" value="es"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="FreeCRMTest.job"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/FreeCRMTest.job/19/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#19"/>
+    <property name="OneDrive" value="C:\Users\zesh_\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\JAVAnew\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\zesh_\AppData\Local"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="America/Mexico_City"/>
+    <property name="USERNAME" value="HQ8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\JAVAnew\lib\endorsed"/>
+    <property name="BUILD_ID" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\JAVAnew"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/FreeCRMTest.job/19/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\zesh_\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/FreeCRMTest.job/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="HQ88"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_181"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\zesh_"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="HQ88"/>
+    <property name="POM_GROUPID" value="CRMAutomation"/>
+    <property name="user.home" value="C:\Users\zesh_"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-FreeCRMTest.job-19"/>
+    <property name="JENKINS_SERVER_COOKIE" value="5755a5150109c732"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\zesh_"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\zesh_\Documents\apache-maven-3.5.4\bin;C:\Users\zesh_\AppData\Local\Microsoft\WindowsApps;C:\Users\zesh_\AppData\Roaming\npm;C:\Users\zesh_\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\zesh_\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven"/>
+    <property name="java.class.path" value="C:\Users\zesh_\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven\boot\plexus-classworlds-2.5.2.jar;C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven C:\Users\zesh_\.jenkins\war\WEB-INF\lib\remoting-3.27.jar C:\Users\zesh_\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\zesh_\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 64141"/>
+    <property name="Path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\zesh_\Documents\apache-maven-3.5.4\bin;C:\Users\zesh_\AppData\Local\Microsoft\WindowsApps;C:\Users\zesh_\AppData\Roaming\npm;C:\Users\zesh_\AppData\Local\Programs\Microsoft VS Code\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven"/>
+    <property name="java.io.tmpdir" value="C:\Users\zesh_\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\zesh_\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/FreeCRMTest.job/19/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\JAVAnew\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\zesh_\Documents\Selenium\CRM"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/FreeCRMTest.job/"/>
+    <property name="LOGONSERVER" value="\\HQ88"/>
+    <property name="USERDOMAIN" value="HQ88"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\Users\zesh_\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\TestMaven"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="19"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="8e09"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Users\zesh_\Documents\Jenkins"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\zesh_\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="WORKSPACE" value="C:\Users\zesh_\.jenkins\workspace\FreeCRMTest.job"/>
+    <property name="maven3.interceptor.common" value="C:\Users\zesh_\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateContacstPageMessage" time="0.11"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyHomePageTitle" time="0.019"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageTitleTest" time="0.011"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContact" time="5.4"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContact" time="4.873"/>
+  <testcase classname="com.crm.qa.testcases.ContactsPageTest" name="validateCreateNewContact" time="6.849"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="verifyCorrectUserName" time="0.118"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageValidateLogoTest" time="0.075"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageValidateLoginTest" time="5.362"/>
+</testsuite>
