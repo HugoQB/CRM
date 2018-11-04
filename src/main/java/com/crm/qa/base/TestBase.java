@@ -26,8 +26,8 @@ public class TestBase {
 		
 		prop = new Properties();
 		try {
-			FileInputStream fis = new FileInputStream("C:\\Users\\zesh_\\CRM\\"
-					+ "src\\main\\java\\com\\crm\\qa\\config\\config.properties");
+			FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+ "/src/main/java/com/crm"
+					+ "/qa/config/config.properties");
 			prop.load(fis);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
